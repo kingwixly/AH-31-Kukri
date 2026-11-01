@@ -17,3 +17,9 @@ To download this mod, navigate to the releases (right-hand side of your page) an
 Any patch scripts, current or future, are copyleft. If I add a future patch script, I will include an actual license.\
 MODELS are NOT granted to you and are not allowed for commercial use or redistribution. If a license is added, it does not include my models. The only allowed use of the models is within the .nobp and in the game. You may redistribute the mod asset bundle `.nobp` but never the raw 3d assets.\
 Ask permission before extracting or decompiling my mod and importing it into Unity or, thereof, any other computer software or game. Do not use my IP without permission.
+
+# Special thank you:
+- Mangy (mission)
+- Enplo (trailer)
+- Gryphus (cockpit)
+- You <3 (making this possible)
